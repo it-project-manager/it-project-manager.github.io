@@ -1555,7 +1555,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #888;
+		color: black;
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1674,6 +1674,7 @@
 	}
 
 		pre code {
+			color: black;
 			-webkit-overflow-scrolling: touch;
 			display: block;
 			line-height: 1.5em;
@@ -1726,7 +1727,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #613E52;
 		font-size: 3.5em;
 	}
 
@@ -2461,7 +2462,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #689F38;
+		background: #613E52;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
