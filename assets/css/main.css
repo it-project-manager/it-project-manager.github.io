@@ -2461,7 +2461,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #689F38;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #2f3835;
 					display: block;
 					padding: 0;
 				}
